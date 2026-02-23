@@ -23,7 +23,7 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 ---
 
 ## 🌐 Live Demo
-https://tic-tac-toe-game-xyz.vercel.app
+ https://mohitkumar350.github.io/Tic-Tak-Toe/
 
 
 ---
